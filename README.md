@@ -4,15 +4,6 @@
 
 ---
 
-## What this repo contains
-
-| File | Purpose |
-|------|---------|
-| `README.md` | This guide |
-| `setup.ps1` | One-click setup script — clones, configures, builds, and runs the service |
-
----
-
 ## Prerequisites
 
 Install these before running the script:
