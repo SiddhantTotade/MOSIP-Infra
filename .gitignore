@@ -1,0 +1,14 @@
+# Ignore all the actual source code folders — only README & script are tracked
+commons/
+registration/
+esignet-mock-services/
+
+# Also ignore any other clutter
+target/
+*.log
+logs/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
