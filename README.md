@@ -4,15 +4,6 @@
 
 ---
 
-## What this repo contains
-
-| File | Purpose |
-|------|---------|
-| `README.md` | This guide |
-| `setup.ps1` | One-click setup script — clones, configures, builds, and runs the service |
-
----
-
 ## Prerequisites
 
 Install these before running the script:
@@ -32,7 +23,7 @@ Install these before running the script:
 ```powershell
 # 1. Clone this repo
 git clone https://github.com/SiddhantTotade/MOSIP-Infra.git
-cd <your-repo>
+cd MOSIP-Infra
 
 # 2. Run the setup script
 .\setup.ps1
