@@ -31,7 +31,7 @@ Install these before running the script:
 
 ```powershell
 # 1. Clone this repo
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/SiddhantTotade/MOSIP-Infra.git
 cd <your-repo>
 
 # 2. Run the setup script
